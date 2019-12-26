@@ -1,13 +1,12 @@
 // NOTE: To use this script correctly,
-// you need to make sure that the bot have to have a flow variable name `foundCity`,
-// which is used for marking the city user entered whether is found or not
+// you need to make sure that the bot have to have a flow variable name `order_code`
 
 const URL = require('url').URL;
 const request = require('request');
 
 
 /**
- * Fetch forecast data from openweathermap service
+ * Fetch data from googlesheet
  */
 const getSheetData = () => {
   // More details at https://docs.botstar.com/en/scripting.html#event
