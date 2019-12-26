@@ -1,0 +1,276 @@
+{ "200":
+   { "iconId": "11d",
+     "desc": "thunderstorm with light rain",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "201":
+   { "iconId": "11d",
+     "desc": "thunderstorm with rain",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "202":
+   { "iconId": "11d",
+     "desc": "thunderstorm with heavy rain",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "210":
+   { "iconId": "11d",
+     "desc": "light thunderstorm",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "211":
+   { "iconId": "11d",
+     "desc": "thunderstorm",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "212":
+   { "iconId": "11d",
+     "desc": "heavy thunderstorm",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "221":
+   { "iconId": "11d",
+     "desc": "ragged thunderstorm",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "230":
+   { "iconId": "11d",
+     "desc": "thunderstorm with light drizzle",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "231":
+   { "iconId": "11d",
+     "desc": "thunderstorm with drizzle",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "232":
+   { "iconId": "11d",
+     "desc": "thunderstorm with heavy drizzle",
+     "main": "Thunderstorm",
+     "iconUrl": "https://media1.fdncms.com/stranger/imager/u/large/41336007/1568055516-gettyimages-1036655058.jpg" },
+  "300":
+   { "iconId": "09d",
+     "desc": "light intensity drizzle",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "301":
+   { "iconId": "09d",
+     "desc": "drizzle",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "302":
+   { "iconId": "09d",
+     "desc": "heavy intensity drizzle",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "310":
+   { "iconId": "09d",
+     "desc": "light intensity drizzle rain",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "311":
+   { "iconId": "09d",
+     "desc": "drizzle rain",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "312":
+   { "iconId": "09d",
+     "desc": "heavy intensity drizzle rain",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "313":
+   { "iconId": "09d",
+     "desc": "shower rain and drizzle",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "314":
+   { "iconId": "09d",
+     "desc": "heavy shower rain and drizzle",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "321":
+   { "iconId": "09d",
+     "desc": "shower drizzle",
+     "main": "Drizzle",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201707/drizzle-647_072717054006.jpg" },
+  "500":
+   { "iconId": "10d",
+     "desc": "light rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "501":
+   { "iconId": "10d",
+     "desc": "moderate rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "502":
+   { "iconId": "10d",
+     "desc": "heavy intensity rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "503":
+   { "iconId": "10d",
+     "desc": "very heavy rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "504":
+   { "iconId": "10d",
+     "desc": "extreme rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "511":
+   { "iconId": "13d",
+     "desc": "freezing rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "520":
+   { "iconId": "09d",
+     "desc": "light intensity shower rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "521":
+   { "iconId": "09d",
+     "desc": "shower rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "522":
+   { "iconId": "09d",
+     "desc": "heavy intensity shower rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "531":
+   { "iconId": "09d",
+     "desc": "ragged shower rain",
+     "main": "Rain",
+     "iconUrl": "https://assets.nst.com.my/images/articles/rsded_1566228271.jpg" },
+  "600":
+   { "iconId": "13d",
+     "desc": "light snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "601":
+   { "iconId": "13d",
+     "desc": "Snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "602":
+   { "iconId": "13d",
+     "desc": "Heavy snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "611":
+   { "iconId": "13d",
+     "desc": "Sleet",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "612":
+   { "iconId": "13d",
+     "desc": "Light shower sleet",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "613":
+   { "iconId": "13d",
+     "desc": "Shower sleet",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "615":
+   { "iconId": "13d",
+     "desc": "Light rain and snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "616":
+   { "iconId": "13d",
+     "desc": "Rain and snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "620":
+   { "iconId": "13d",
+     "desc": "Light shower snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "621":
+   { "iconId": "13d",
+     "desc": "Shower snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "622":
+   { "iconId": "13d",
+     "desc": "Heavy shower snow",
+     "main": "Snow",
+     "iconUrl": "https://res.cloudinary.com/j2ski/albums/u44159/20190527/Perisher_27_May" },
+  "701":
+   { "iconId": "50d",
+     "desc": "mist",
+     "main": "Mist",
+     "iconUrl": "http://www.stileantico.co.uk/wp-content/uploads/2013/10/dsc_2030.jpg" },
+  "711":
+   { "iconId": "50d",
+     "desc": "Smoke",
+     "main": "Smoke",
+     "iconUrl": "https://www.brandsynario.com/wp-content/uploads/2017/11/karachi-leaf.jpg" },
+  "721":
+   { "iconId": "50d",
+     "desc": "Haze",
+     "main": "Haze",
+     "iconUrl": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2018/Haze-Singapore-00_0.jpg?itok=EiW93j9Q" },
+  "731":
+   { "iconId": "50d",
+     "desc": "sand/ dust whirls",
+     "main": "Dust",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201806/Delhi_Dust_KC_Twitter.jpeg?aVxK70ewz5Ds.ktexif.6v280TAGWHge" },
+  "741":
+   { "iconId": "50d",
+     "desc": "fog",
+     "main": "Fog",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201901/Indian_Railways-Fog.png?l3ah7Ek7yGFZjiV5JGkwpikpL533LG7x" },
+  "751":
+   { "iconId": "50d",
+     "desc": "sand",
+     "main": "Sand",
+     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwyEwK585C2jSHaO2mH0bhe2VQDsIjQgcYOegQa--8kWdI00wg" },
+  "761":
+   { "iconId": "50d",
+     "desc": "dust",
+     "main": "Dust",
+     "iconUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201806/Delhi_Dust_KC_Twitter.jpeg?aVxK70ewz5Ds.ktexif.6v280TAGWHge" },
+  "762":
+   { "iconId": "50d",
+     "desc": "volcanic ash",
+     "main": "Ash",
+     "iconUrl": "https://e3.365dm.com/19/06/768x432/skynews-karo-indonesia-volcano_4691411.jpg" },
+  "771":
+   { "iconId": "50d",
+     "desc": "squalls",
+     "main": "Squall",
+     "iconUrl": "https://images.fineartamerica.com/images-medium-large-5/summer-rain-squalls-pamela-weston.jpg" },
+  "781":
+   { "iconId": "50d",
+     "desc": "tornado",
+     "main": "Tornado",
+     "iconUrl": "https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/hurricane--tornado/tornado-in-the-usa.-photo-matt-clark.jpg" },
+  "800":
+   { "iconId": "01d",
+     "desc": "clear sky",
+     "main": "Clear",
+     "iconUrl": "https://ak6.picdn.net/shutterstock/videos/723256/thumb/1.jpg" },
+  "801":
+   { "iconId": "02n",
+     "desc": "few clouds: 11-25% 02d",
+     "main": "Clouds",
+     "iconUrl": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/sg-visitors-guide/blue-sky-clouds_1000x557.jpg" },
+  "802":
+   { "iconId": "03n",
+     "desc": "scattered clouds: 25-50%",
+     "main": "Clouds",
+     "iconUrl": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/sg-visitors-guide/blue-sky-clouds_1000x557.jpg" },
+  "803":
+   { "iconId": "04n",
+     "desc": "broken clouds: 51-84%",
+     "main": "Clouds",
+     "iconUrl": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/sg-visitors-guide/blue-sky-clouds_1000x557.jpg" },
+  "804":
+   { "iconId": "04n",
+     "desc": "overcast clouds: 85-100%",
+     "main": "Clouds",
+     "iconUrl": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/sg-visitors-guide/blue-sky-clouds_1000x557.jpg" }
+}
